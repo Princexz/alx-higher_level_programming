@@ -1,6 +1,6 @@
 # Python - Almost a circle
 
-![Circle](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
+![Circle](https://s3.amazonaws.com/intranet-projects-files/alx-higher-level_programming+/331/giphy.mp4)
 
 In this project, I encapsulated skills in Python object-oriented programming by coding three connected classes to represent rectangles and squares. I wrote my own test suite using the `unittest` module to test all functionality for each class.
 
@@ -101,3 +101,17 @@ Represents a square. Inherits from `Rectangle` with:
   * `**kwargs` is expected to be a double pointer to a dictoinary of new key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary representation of a `Square`.
+
+
+* ## Author :black_nib:
+
+* **Prince Solomon** [princexz](https://github.com/princexz)
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
+
+<p align="center">
+  <img
+   src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Africa Logo"
