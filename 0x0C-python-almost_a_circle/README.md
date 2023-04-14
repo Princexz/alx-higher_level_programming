@@ -105,7 +105,7 @@ Represents a square. Inherits from `Rectangle` with:
 
 * ## Author :black_nib:
 
-* **Prince Solomon** [princexz](https://github.com/princexz)
+* ## Prince Solomon [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
